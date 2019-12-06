@@ -18,6 +18,7 @@ else:
 # Main Body of Script-----------------------------------------#
 # Data #
 
+strFileName = "EmployeeData.txt"
 lstEmployeeTable = []  # A list/table of Employee objects
 lstFileData = []  # A list/table of string objects in a list
 
